@@ -1,2 +1,6 @@
 Animals
 Birds
+Fishes
+Reptiles
+worms
+insects
